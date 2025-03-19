@@ -11,13 +11,16 @@ Project for CSE404
   Selected Photographic Collection
   Selected painting Collection
   Selected Chinese painting Collection
-  
+  clip-retrieval
   
 3.finetuing code (ai-tookit)
 
 
-4.Acknowledgment
+4.## Acknowledgments
+
 This project builds upon or was inspired by the following open-source projects:
 
 * [LAION-AI/aesthetic-predictor](https://github.com/LAION-AI/aesthetic-predictor) - Used the aesthetics predictor notebook for image quality assessment.
 * [ostris/ai-toolkit](https://github.com/ostris/ai-toolkit) - Leveraged various AI scripts for Stable Diffusion implementation.
+* [rom1504/clip-retrieval](https://github.com/rom1504/clip-retrieval) - Utilized for computing CLIP embeddings and building a retrieval system.
+
